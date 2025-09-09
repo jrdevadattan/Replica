@@ -1,4 +1,4 @@
-# Replica 🚀
+# Replica
 
 **Vercel Dashboard recreation built for Replica 2025**
 
@@ -12,25 +12,11 @@ My submission for **Replica 2025** - the ultimate frontend showdown by **OSS Clu
 
 ## ✨ Features
 
-- 🎨 **Pixel-perfect** Vercel dashboard replica
 - 📱 **Fully responsive** design
 - ⚡ **Modern CSS** Grid & Flexbox layouts
 
-## 🛠️ Tech Stack
-
-- **HTML5** - Semantic structure
-- **CSS3** - Styling & animations
-- **SVG Icons** - Scalable graphics
-- **GitHub Pages** - Deployment
-
-## 👨‍💻 Author
-
-**JR Devadattan**  
-📧 [GitHub Profile](https://github.com/jrdevadattan)  
-🌐 [Live Demo](https://jrdevadattan.github.io/Replica/)
-
 ---
 
-### 💫 "May The Source Be With You!" ❤️
+### "May The Source Be With You!" ❤️
 
 *Built during Replica 2025 - OSS Club, AIT Pune*
